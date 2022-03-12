@@ -1,0 +1,11 @@
+.title, .red{
+    font-size: 100px;
+    text-align: center;
+    text-decoration: solid;
+    color:  red;
+}
+
+img{
+    width: 600px;
+    height: 600px;
+}
